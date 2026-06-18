@@ -14,7 +14,7 @@ types, and live change observation, backed by native HealthKit on iOS.
   s.license          = { :type => 'MIT', :file => '../LICENSE' }
   s.author           = { 'Damilare P Eniayewu' => 'enypieter@gmail.com' }
   s.source           = { :path => '.' }
-  s.source_files     = 'Classes/**/*'
+  s.source_files     = 'health_kit_wrapper/Sources/health_kit_wrapper/**/*.swift'
   s.dependency 'Flutter'
   s.frameworks       = 'HealthKit'
   s.platform         = :ios, '13.0'
