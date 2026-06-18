@@ -1,3 +1,11 @@
+## 1.0.1
+
+- Add iOS Swift Package Manager support (`Package.swift`); the plugin now builds
+  under both SPM and CocoaPods.
+- Fix the Flutter SDK constraint to `>=3.41.0` so it is consistent with the
+  Dart `^3.11.1` requirement.
+- Shorten the package description to satisfy pub.dev's length limit.
+
 ## 1.0.0
 
 Initial release.

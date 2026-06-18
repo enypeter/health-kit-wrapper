@@ -2,7 +2,7 @@ name: health_kit_wrapper
 description: >-
   Unified health plugin for iOS (HealthKit) and Android (Health Connect): one
   Dart API for permissions, reads across 26 data types, and live observation.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/enypeter/health-kit-wrapper
 repository: https://github.com/enypeter/health-kit-wrapper
 issue_tracker: https://github.com/enypeter/health-kit-wrapper/issues

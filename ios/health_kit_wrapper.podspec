@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'health_kit_wrapper'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Unified HealthKit / Health Connect plugin for Flutter.'
   s.description      = <<-DESC
 One Dart API for permissions, aggregate/sample reads across 26 health data
